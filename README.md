@@ -1,6 +1,10 @@
 ## Hey there!
 \- I am a curious CS Nerd
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sharmarahul111&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharmarahul111&layout=compact&theme=tokyonight)
+
+
 > "At some point, everything's gonna go south on you... everything's going to go south and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem... and you solve the next one... and then the next. And If you solve enough problems, you get to come home."
 \- _Mark Watney_
 <!---

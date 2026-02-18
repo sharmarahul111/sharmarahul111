@@ -7,6 +7,10 @@
 ### My stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sharmarahul111&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharmarahul111&layout=compact&theme=tokyonight)
+
+## Currently working on
+- [MiniDB](https://github.com/sharmarahul111/minidb)<br>
+A Database Management System implemented in C
 <!--
 ### Have a look at
 - [My projects list](https://github.com/SharmaRahul111/projects)

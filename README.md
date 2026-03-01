@@ -2,7 +2,7 @@
 [![A curious CS Nerd](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=100&center=true&width=435&lines=A+CS+Nerd;A+Curious+Learner;A+Deep+Diver)](https://git.io/typing-svg)
 
 ### Tools I use and am learning:
-[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,nodejs,py,php,sass,html,css,django,react,mysql,git,github,bash,vscode,androidstudio,linux,lua,md,vim,neovim,vite,cmake,npm,ubuntu,kali,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,py,neovim,html,css,react,git,bash,linux,lua)](https://skillicons.dev)
 
 ### My stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sharmarahul111&theme=tokyonight)

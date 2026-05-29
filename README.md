@@ -2,7 +2,10 @@
 
 I’m a systems-focused engineer interested in programming languages, runtimes, engines, and software infrastructure.  
 I enjoy building from scratch to understand how things work beneath the surface.  
-Currently building compilers, interpreters, and exploring engine architecture.
+Interested in building compilers, interpreters, and exploring engine architecture.
+
+#### Currently studying Machine Learning...
+
 
 ## Tools I use
 [![My Skills](https://skillicons.dev/icons?i=c,py,cpp,js,git,bash,linux)](https://skillicons.dev)

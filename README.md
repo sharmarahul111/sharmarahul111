@@ -8,7 +8,7 @@ Interested in building compilers, interpreters, and exploring engine architectur
 
 
 ## Tools I use
-[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,js,git,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,c,git,linux,bash)](https://skillicons.dev)
 
 <!--![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sharmarahul111&theme=tokyonight)-->
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharmarahul111&layout=compact&theme=tokyonight)

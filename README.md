@@ -29,9 +29,7 @@ the surface, from interpreters and compilers to game engines and AI projects.
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sharmarahul111?theme=catppuccinMocha&font=Baloo%20Tamma%202"/>
 </p>
-
-
-
+<!--
 ## Featured Projects
 
 ### [Plox](https://github.com/sharmarahul111/plox)
@@ -48,3 +46,4 @@ Physics-based sumo wrestling simulation where neural-network agents evolve throu
 
 ### [FlappyAI](https://github.com/sharmarahul111/FlappyAI)
 Flappy Bird AI that learns through evolutionary mutation and neural-network-based decision making.
+-->

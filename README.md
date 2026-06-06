@@ -6,7 +6,8 @@ runtimes, engines, and software infrastructure.
 I enjoy building things from scratch to understand how they work beneath
 the surface, from interpreters and compilers to game engines and AI projects.
 
-#### Currently studying Machine Learning.
+## Awards
+- 🏆 **Emerging Coder Award Winner**, **Revah Coding Competition 2026** — Top First-Year Competitor, **4th Overall**l
 
 ---
 

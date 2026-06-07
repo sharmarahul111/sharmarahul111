@@ -26,10 +26,10 @@ the surface, from interpreters and compilers to game engines and AI projects.
 ---
 
 ## LeetCode
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sharmarahul111?theme=catppuccinMocha&font=Baloo%20Tamma%202"/>
 </p>
+<p align="center"><a href="https://leetcode.com/u/sharmarahul111/">@sharmarahul111</a></p>
 <!--
 ## Featured Projects
 
